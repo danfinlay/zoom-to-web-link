@@ -10,3 +10,7 @@ With a simple command `zoom YOUR_ZOOM_LINK`, this utility will spit out a link t
 
 Just install with npm using `npm install -g zoom-to-web-link` and then you can `zoom YOUR_WEB_LINK` away!
 
+## Mac Usage
+
+On a mac, you can pipe right to your clipboard like this: `zoom $MEETING_LINK | pbcopy`.
+

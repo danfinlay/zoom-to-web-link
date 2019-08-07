@@ -1,6 +1,6 @@
 {
   "name": "zoom-to-web-link",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Quickly convert a zoom meeting link into a zoom web client link",
   "main": "index.js",
   "scripts": {

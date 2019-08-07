@@ -2,4 +2,4 @@
 
 const webify = require('../')
 
-console.log('YOUR MEETING LINK IS: ' + webify(process.argv[2]))
+console.log(webify(process.argv[2]))

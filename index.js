@@ -6,7 +6,6 @@ function webify (input) {
 
   const pathname = url.path
   const paths = pathname.split('/').filter(a => a !== '')
-  console.log(paths)
 
   const prefix = url.origin || `${url.protocol}//${url.host}`
   const result = `${prefix}/wc/join/${paths[1]}`
